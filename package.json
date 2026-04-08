@@ -1,0 +1,20 @@
+{
+  "name": "elevate-ts-samples",
+  "version": "1.0.0",
+  "description": "Production-ready examples using elevate-ts",
+  "private": false,
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/zambit/elevate-ts-samples"
+  },
+  "keywords": [
+    "elevate-ts",
+    "functional-programming",
+    "typescript",
+    "examples",
+    "validation"
+  ],
+  "author": "Zambit",
+  "license": "Dual Licensed"
+}
